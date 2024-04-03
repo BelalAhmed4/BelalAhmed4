@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/belal-ahmad-63b2052bb" target="_blank"><img src="https://img.shields.io/badge/-Belal%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/belal-ahmad-63b2052bb" target="_blank"><img src="https://img.shields.io/badge/-Belal%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Belal_Elhagrasy" target="_blank"><img src="https://img.shields.io/badge/-Belal%20Ahmed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
